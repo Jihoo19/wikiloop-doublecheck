@@ -2,7 +2,7 @@ Button-Dismiss: Dismiss
 Button-Go: Go
 Button-Go.@meta.@description: Label for buttons to redirect user to a given url or location.
 Button-HelpTranslate: Help translate
-Button-HelpTranslate.@meta.@description: >-
+Button-HelpTranslate.@meta.@description: >-Korean
   Label for button that allow users to help translate internationalized messages
   for this software.
 Button-Next: Next
